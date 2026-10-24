@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/everaudio">
+        <file alias="Sunset.mp3">audio/Sunset.mp3</file>
+    </qresource>
+</RCC>
