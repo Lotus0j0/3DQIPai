@@ -1,3 +1,4 @@
-build-ThreeDQiPai-Qt5_8_MinGW-Debug
+build-ThreeDQiPai-Qt5_8_MinGW-Debug/
 bin/
 outline/
+spdlog/
